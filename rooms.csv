@@ -1,0 +1,7 @@
+id,type,rate,description
+"R101","STANDARD",75.0,"Standard single bed"
+"R102","STANDARD",80.0,"Standard double bed"
+"R201","DELUXE",120.0,"Deluxe with city view"
+"R202","DELUXE",130.0,"Deluxe with balcony"
+"S301","SUITE",220.0,"Executive suite"
+"S302","SUITE",260.0,"Luxury suite with lounge"
